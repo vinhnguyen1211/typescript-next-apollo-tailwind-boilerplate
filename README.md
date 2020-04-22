@@ -7,6 +7,8 @@ If needed, please fork this repository and add your own that meets your requirem
 
 Ideal for creating React apps from the scratch.
 
+### [Live site](https://next-graphql-tailwind-boilerplate.now.sh/)
+
 ## Contains
 
 - [x] [Typescript](https://www.typescriptlang.org/)
